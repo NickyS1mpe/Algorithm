@@ -1,8 +1,8 @@
-# GospersHack
+# Gosper's Hack
 
 ## Introduction
 
-This repository contains the implementation of GospersHack, a technique for generating combinations with k set bits in an n-bit word.
+This repository contains the implementation of Gosper's Hack algorithm, a technique for generating combinations with k set bits in an n-bit word.
 
 ## Class: `GospersHack`
 
