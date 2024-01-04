@@ -16,5 +16,5 @@ int Implementation(int k, int n);
 
 ### Method Description:
 
-`k`: Number of set bits in each combination.
+`k`: Number of set bits in each combination.<br>
 `n`: Total number of bits in each combination.
